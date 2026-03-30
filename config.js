@@ -57,14 +57,12 @@ const CONFIG = {
   accounts: {
     groom: [
       { role: "김정현", bank: "신한은행", number: "110-219-612070" },
-      { role: "어머니", bank: "국민은행", number: "645501-01-358584" },
-      { role: "아버지", bank: "정현은행", number: "사랑합니다🎉" }
-    ],
+      { role: "부모님", bank: "국민은행", number: "645501-01-358584" },
+          ],
     bride: [
       { role: "이나리", bank: "카카오뱅크", number: "3333-04-8061061" },
-      { role: "어머니", bank: "농협은행", number: "588-02-021813" },
-      { role: "아버지", bank: "나리은행", number: "사랑합니다🎉" }
-    ]
+      { role: "부모님", bank: "농협은행", number: "588-02-021813" },
+          ]
   },
 
   // ── 링크 공유 시 나타나는 문구 ──
